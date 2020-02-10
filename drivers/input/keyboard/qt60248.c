@@ -1,7 +1,5 @@
 /*
- *  Atmel AT42QT1070 QTouch Sensor Controller
- *
- *  Copyright (C) 2011 Atmel
+ *  Microchip QProx™  QT60248 QMatrix™ 
  *
  *  Authors: Gabor Wunderlich <wunderlichg.@t-online.hu>
  *
